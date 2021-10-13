@@ -1,0 +1,15 @@
+.heading h1{
+    font-size: 22px;
+}
+.reset_button{
+    box-shadow: 5px 2px 7px lemonchiffon;
+    border: 2px ridge lightgoldenrodyellow;
+}
+.footer{
+    bottom: 0;
+    position: sticky;
+}
+canvas{
+    border: 5px dotted lightsteelblue;
+    box-shadow: 2px 4px lightslategray;
+}
